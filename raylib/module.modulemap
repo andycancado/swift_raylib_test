@@ -1,0 +1,5 @@
+module Raylib {
+    header "./include/raylib_swift.h"
+    export *
+
+  }
